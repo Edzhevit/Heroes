@@ -4,10 +4,10 @@
 
 ## Technology stack used to implement the project are: 
 
-*JavaEE
-*JSF
-*Hibernate
-*JDBC
-*HTML5
-*CSS3
-*Bootstrap4
+* JavaEE
+* JSF
+* Hibernate
+* JDBC
+* HTML5
+* CSS3
+* Bootstrap4
